@@ -9,7 +9,9 @@
 ---
 
 ### Bukti Jalannya Aplikasi & Caching Lokal
-[Taruh Foto/Screenshot Aplikasi Kamu di Sini]
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-29 at 23 36 32" src="https://github.com/user-attachments/assets/74db0c8e-8e1f-4883-95d9-f39dddb3b471" />
+
+
 
 ---
 
