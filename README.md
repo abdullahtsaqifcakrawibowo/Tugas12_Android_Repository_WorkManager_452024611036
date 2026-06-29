@@ -1,7 +1,7 @@
 # Tugas 12: Android Repository & WorkManager
 
 ### Identitas Mahasiswa
-* **Nama:** [ISI NAMA KAMU DI SINI]
+* **Nama:** Abdullah Tsaqif Cakrawibowo
 * **NIM:** 452024611036
 * **Mata Kuliah:** Pemrograman Perangkat Bergerak
 * **Dosen Pengampu:** Aziz Musthafa, S.Kom, M.T
